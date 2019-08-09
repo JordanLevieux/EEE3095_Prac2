@@ -1,0 +1,30 @@
+bin/Prac2
+Running Unthreaded Test
+Precision sizeof 4
+Clock resolution: 1 ns
+Time: 3.246258 ms
+End Unthreaded Test
+bin/Prac2
+Running Unthreaded Test
+Precision sizeof 4
+Clock resolution: 1 ns
+Time: 3.453122 ms
+End Unthreaded Test
+bin/Prac2
+Running Unthreaded Test
+Precision sizeof 4
+Clock resolution: 1 ns
+Time: 3.261000 ms
+End Unthreaded Test
+bin/Prac2
+Running Unthreaded Test
+Precision sizeof 4
+Clock resolution: 1 ns
+Time: 3.399570 ms
+End Unthreaded Test
+bin/Prac2
+Running Unthreaded Test
+Precision sizeof 4
+Clock resolution: 1 ns
+Time: 3.279077 ms
+End Unthreaded Test
